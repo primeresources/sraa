@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.sraa.co.nz	TRUE	/	FALSE	1999999999	sraa_session_id	mUsAYHZ4g6VIJGm:nobody
+www.sraa.co.nz	TRUE	/	FALSE	1999999999	visitor	q5r2VldhRNKqJRXQ-NAkqQ
+www.sraa.co.nz	TRUE	/	FALSE	1999999999	ZES_BACKEND	Backend.zeald-app-087
+

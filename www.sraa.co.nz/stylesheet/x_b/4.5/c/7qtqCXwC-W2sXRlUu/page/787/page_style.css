@@ -1,0 +1,696 @@
+.plain_content {
+height: 100%;
+}
+.component_ContentDisplay_Content {
+margin: 0; margin: 0; padding: 8px 14px;  } #c789.component_ContentDisplay_Content {
+ } td.ltc {
+padding: 0;
+background: none;
+text-align: left;
+vertical-align: top;
+border: none;
+}
+.component_Layout_Table {
+margin: 0; margin: 0; padding: 8px 14px;  } #c788.component_Layout_Table {
+ } #ws_header{
+width:auto;
+max-width:80%;
+}
+#ws_caption{
+display:table-cell;
+color:#CCC;
+width:auto;
+max-width:80%;
+}
+#wowslider-container1 .blast_div img{
+max-width:100%;
+max-height:100%;
+}
+#wowslider-container1 .blind_div img{
+max-width:100%;
+}
+#wowslider-container1 .fade_images {
+position:absolute;
+top:0;
+width:100%;
+height:auto;
+max-height:100%;
+left:0;
+padding:0;
+margin:0;
+border:0;
+display:block;
+text-align:center;
+}
+#wowslider-container1 .fade_images .tryingdivs{
+position:absolute;
+top:0;
+width:100%;
+height:100%;
+padding:0;
+margin:0;
+border:0;
+}
+#wowslider-container1 .fade_images .scrolling_img{
+max-height:100%;
+max-width:100%;
+height:auto;
+padding:0;
+margin:0;
+border:0;
+}
+#wowslider-container1 {
+zoom: 1;
+position: relative; margin:0 auto;
+z-index:100;
+border:none;
+text-align:left; width:100%;
+height:auto;
+}
+* html #wowslider-container1{ width:960px }
+#wowslider-container1 ul{
+position:relative;
+width: 10000%; left:0;
+list-style:none;
+margin:0;
+padding:0;
+border-spacing:0;
+}
+#wowslider-container1 ul li{
+width:1%;
+line-height:0; float:left;
+font-size:0;
+padding:0;
+margin:0;
+}
+#wowslider-container1 .ws_images{
+position: relative;
+left:0;
+top:0;
+overflow:hidden;
+}
+#wowslider-container1 .ws_images a{
+width:100%;
+display:block;
+color:transparent;
+}
+#wowslider-container1 .ws_images .tryingdivs{
+max-width:100%;
+text-align:center;
+display:block;
+max-height:100%;
+}
+#wowslider-container1 .ws_images li img{
+max-width:100%;
+width:auto;
+border:none 0;
+max-height:100%;
+}
+#wowslider-container1 .ws_images .scrolling_img_cont{
+height:100%;
+text-align:center;
+vertical-align:top;
+}
+#wowslider-container1 .ws_images .scrolling_cont2{
+display:table-cell;
+float:left;
+}
+#wowslider-container1 a{ text-decoration: none; outline: none; border: none; }
+#wowslider-container1 .ws_bullets { font-size:9px;
+float: left;
+position:absolute;
+z-index:70;
+}
+#wowslider-container1 .ws_bullets div{
+position:relative;
+float:left;
+}
+#wowslider-container1 .ws_bullets div a img{
+width:150px;
+}
+#wowslider-container1 a.wsl{
+display:none;
+}
+#wowslider-container1 .ws_bullets { padding: 10px; }
+#wowslider-container1 .ws_bullets a { margin-left:4px;
+width:22px;
+height:20px;
+background: url(../../../../../../../../images.zeald.com/site/sraa/images/basic_theme/ScrollingBanner/bullet.png) left top;
+float: left; position:relative;
+color:#FFF;
+text-align:center;
+padding-top:4px;
+cursor:pointer;
+}
+#wowslider-container1 .ws_bullets a.ws_selbull, #wowslider-container1 .ws_bullets a:hover{
+background-position: 0 120%;
+}
+#wowslider-container1 a.ws_next, #wowslider-container1 a.ws_prev {
+position:absolute;
+display:none;
+top:50%;
+margin-top:-28px;
+z-index:60;
+height: 50px;
+width: 51px;
+background-image: url(../../../../../../../../images.zeald.com/site/sraa/images/basic_theme/ScrollingBanner/arrows.png);
+cursor:pointer;
+}
+#wowslider-container1 a.ws_next{
+background-position: 100% 0;
+right:10px;
+}
+#wowslider-container1 a.ws_prev {
+left:10px;
+background-position: 0 0; }
+#wowslider-container1 a.ws_next:hover{
+background-position: 100% 100%;
+}
+#wowslider-container1 a.ws_prev:hover {
+background-position: 0 100%; }
+* html #wowslider-container1 a.ws_next,* html #wowslider-container1 a.ws_prev{display:block}
+#wowslider-container1:hover a.ws_next, #wowslider-container1:hover a.ws_prev {display:block}
+#wowslider-container1 .ws-title{
+display:table-cell;
+max-width:100%;
+width:auto;
+position: absolute;
+bottom:15%;
+left: 0;
+margin-right:10px;
+z-index: 50;
+padding:12px;
+color: #F9FBFB;
+text-transform:uppercase;
+background:#2a2a2a;
+font-family: Franklin Gothic Medium,sans-serif;
+font-size: 18px;
+line-height: 18px;
+opacity:0.8;
+filter:progid:DXImageTransform.Microsoft.Alpha(opacity=90);
+}
+#wowslider-container1 .ws-title div{
+padding-top:5px;
+font-size: 13px;
+text-transform:none;
+}
+#wowslider-container1 .ws_bullets {
+top:0;
+right: 0;
+}
+#wowslider-container1 ul{
+animation: wsBasic 65s infinite;
+-moz-animation: wsBasic 65s infinite;
+-webkit-animation: wsBasic 65s infinite;
+}
+@keyframes wsBasic{0%{left:-0%} 6.92%{left:-0%} 10%{left:-100%} 16.92%{left:-100%} 20%{left:-200%} 26.92%{left:-200%} 30%{left:-300%} 36.92%{left:-300%} 40%{left:-400%} 46.92%{left:-400%} 50%{left:-500%} 56.92%{left:-500%} 60%{left:-600%} 66.92%{left:-600%} 70%{left:-700%} 76.92%{left:-700%} 80%{left:-800%} 86.92%{left:-800%} 90%{left:-900%} 96.92%{left:-900%} }
+@-moz-keyframes wsBasic{0%{left:-0%} 6.92%{left:-0%} 10%{left:-100%} 16.92%{left:-100%} 20%{left:-200%} 26.92%{left:-200%} 30%{left:-300%} 36.92%{left:-300%} 40%{left:-400%} 46.92%{left:-400%} 50%{left:-500%} 56.92%{left:-500%} 60%{left:-600%} 66.92%{left:-600%} 70%{left:-700%} 76.92%{left:-700%} 80%{left:-800%} 86.92%{left:-800%} 90%{left:-900%} 96.92%{left:-900%} }
+@-webkit-keyframes wsBasic{0%{left:-0%} 6.92%{left:-0%} 10%{left:-100%} 16.92%{left:-100%} 20%{left:-200%} 26.92%{left:-200%} 30%{left:-300%} 36.92%{left:-300%} 40%{left:-400%} 46.92%{left:-400%} 50%{left:-500%} 56.92%{left:-500%} 60%{left:-600%} 66.92%{left:-600%} 70%{left:-700%} 76.92%{left:-700%} 80%{left:-800%} 86.92%{left:-800%} 90%{left:-900%} 96.92%{left:-900%} }
+#wowslider-container1 .ws_shadow{
+width:140%;
+height:45%;
+position: absolute;
+left:-21.7%;
+bottom:-30%;
+z-index:-1;
+}
+*|html #wowslider-container1 .ws_shadow{
+background-size:100%;
+filter:"";
+}
+#wowslider-container1 .ws_bullets a img{
+text-indent:0;
+display:block;
+top:16px;
+left:-120px;
+visibility:hidden;
+position:absolute;
+-moz-box-shadow: 0 0 5px #000000;
+box-shadow: 0 0 5px #000000;
+border: 5px solid #a4a4a4;
+max-width:none;
+}
+#wowslider-container1 .ws_bullets a:hover img{
+visibility:visible;
+}
+#wowslider-container1 .ws_bulframe div div{
+overflow:visible;
+position:relative;
+}
+#wowslider-container1 .ws_bulframe div {
+left:0;
+overflow:hidden;
+position:relative;
+width:150px;
+height:100%;
+background-color:#a4a4a4;
+}
+#wowslider-container1 .ws_bullets .ws_bulframe{
+display:none;
+top:20px;
+overflow:visible;
+position:absolute;
+cursor:pointer;
+-moz-box-shadow: 0 0 5px #000000;
+box-shadow: 0 0 5px #000000;
+border:` 5px solid #a4a4a4;
+}
+#wowslider-container1 .ws_bulframe span{
+visibility:hidden;
+display:block;
+position:absolute;
+top:-10px;
+left:80px;
+background:url(../../../../../../../../images.zeald.com/site/sraa/images/basic_theme/ScrollingBanner/triangle.png);
+width:15px;
+height:6px;
+}
+#wowslider-container1 .ws_bulframe img{
+height:auto;
+width:100px;
+vertical-align:top;
+}
+.ws_thumbs{
+margin-top:10px;
+}
+.ws_thumbs a{
+border: 1px solid #CCCCCC;
+display: block;
+float: left;
+height: 98px;
+margin: 0 12px 12px 0;
+text-align: center;
+width: 98px;
+}
+.ws_thumbs a img {
+border: medium none;
+margin: 4px;
+}
+.liquid {
+-moz-border-radius:10px 10px 10px 10px;
+-webkit-border-radius:10px 10px 10px 10px;
+border-radius:10px 10px 10px 10px;
+padding:10px 0;
+}
+.liquid .previous {
+display:block;
+height:100%;
+width:30px;
+background: url(../../../../../../../../images.zeald.com/site/sraa/images/basic_theme/btn_carousel_left.png) 50% center no-repeat;
+float:left;
+margin:0;
+padding:0;
+}
+.liquid .next {
+display:block;
+height:100%;
+width:30px;
+background: url(../../../../../../../../images.zeald.com/site/sraa/images/basic_theme/btn_carousel_right.png) 50% center no-repeat;
+float:right;
+margin:0;
+padding:0;
+}
+.liquid ul li {
+width: 95px;
+height: 77px;
+padding: 4px 2px;
+margin: 2px;
+text-align: center;
+border: 1px solid #CCC;
+cursor:pointer;
+}
+div.floating_thumbs a, div.floating_thumbs a:visited, div.floating_thumbs a:active {
+border: 1px solid #CCCCCC;
+display: block;
+float: left;
+height: 98px;
+margin: 0 12px 12px 0;
+text-align: center;
+width: 98px;
+}
+div.floating_thumbs a img {
+border: medium none;
+margin: 4px;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container .blast_div img{
+max-width:100%;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container .blind_div img{
+max-width:100%;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container .fade_images {
+position:absolute;
+top:0;
+width:100% !important;
+height:auto !important;
+left:0;
+padding:0;
+margin:0;
+border:0;
+display:block;
+text-align:center;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container .fade_images .tryingdivs{
+position:absolute;
+top:0;
+width:100% !important;
+height:100%;
+padding:0;
+margin:0;
+border:0;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container .fade_images .scrolling_img{
+max-width:100% !important;
+height:auto;
+padding:0;
+margin:0;
+border:0;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container {
+zoom: 1;
+position: relative;
+margin:0 auto;
+z-index:100;
+border:none;
+text-align:left; width:100%;
+height:auto;
+}
+* html .component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container{ width:960px }
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container ul{
+position:relative;
+width: 10000%;
+left:0;
+list-style:none;
+margin:0;
+padding:0;
+border-spacing:0;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container ul li{
+width:1%;
+line-height:0; float:left;
+font-size:0;
+padding:0;
+margin:0;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container .ws_images{
+position: relative;
+left:0;
+top:0;
+overflow:hidden;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container .ws_images a{
+width:100%;
+display:block;
+color:transparent;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container .ws_images .tryingdivs{
+max-width:100%;
+text-align:center;
+display:block;
+max-height:100%;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container .ws_images li img{
+max-width:100%;
+width:auto;
+border:none 0;
+max-height:100%;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container .ws_images .scrolling_img_cont{
+height:100%;
+text-align:center;
+vertical-align:top;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container .ws_images .scrolling_cont2{
+display:table-cell;
+float:left;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container a{
+text-decoration: none;
+outline: none;
+border: none;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container .ws_bullets {
+font-size:9px;
+float: left;
+position:absolute;
+z-index:70;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container .ws_bullets div{
+position:relative;
+float:left;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container .ws_bullets div a img{
+width:150px;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container a.wsl{
+display:none;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container .ws_bullets {
+padding: 10px;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container .ws_bullets a {
+margin-left:4px;
+width:22px;
+height:20px;
+background: url(../../../../../../../../images.zeald.com/site/sraa/images/basic_theme/ScrollingBanner/bullet.png) left top;
+float: left;
+position:relative;
+color:#FFF;
+text-align:center;
+padding-top:4px;
+cursor:pointer;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container .ws_bullets a.ws_selbull, .component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container .ws_bullets a:hover{
+background-position: 0 120%;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container a.ws_next, .component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container a.ws_prev {
+position:absolute;
+display:none;
+top:50%;
+margin-top:-28px;
+z-index:60;
+height: 50px;
+width: 51px;
+background-image: url(../../../../../../../../images.zeald.com/site/sraa/images/basic_theme/ScrollingBanner/arrows.png);
+cursor:pointer;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container a.ws_next{
+background-position: 100% 0;
+right:10px;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container a.ws_prev {
+left:10px;
+background-position: 0 0;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container a.ws_next:hover{
+background-position: 100% 100%;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container a.ws_prev:hover {
+background-position: 0 100%;
+}
+* html .component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container a.ws_next,* html .component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container a.ws_prev{display:block}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container:hover a.ws_next, .component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container:hover a.ws_prev {display:block}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container .ws-title{
+display:table-cell;
+max-width:100%;
+width:auto;
+position: absolute;
+bottom:15%;
+left: 0;
+margin-right:10px;
+z-index: 50;
+padding:12px;
+color: #F9FBFB;
+text-transform:uppercase;
+background:#2a2a2a;
+font-family: Franklin Gothic Medium,sans-serif;
+font-size: 18px;
+line-height: 18px;
+opacity:0.8;
+filter:progid:DXImageTransform.Microsoft.Alpha(opacity=90);
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container .ws-title div{
+padding-top:5px;
+font-size: 13px;
+text-transform:none;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container .ws_bullets {
+top:0;
+right: 0;
+}
+@keyframes wsBasic{0%{left:-0%} 6.92%{left:-0%} 10%{left:-100%} 16.92%{left:-100%} 20%{left:-200%} 26.92%{left:-200%} 30%{left:-300%} 36.92%{left:-300%} 40%{left:-400%} 46.92%{left:-400%} 50%{left:-500%} 56.92%{
+left:-500%} 60%{left:-600%} 66.92%{left:-600%} 70%{left:-700%} 76.92%{left:-700%} 80%{left:-800%} 86.92%{left:-800%} 90%{left:-900%} 96.92%{left:-900%} }
+@-moz-keyframes wsBasic{0%{left:-0%} 6.92%{left:-0%} 10%{left:-100%} 16.92%{left:-100%} 20%{left:-200%} 26.92%{left:-200%} 30%{left:-300%} 36.92%{left:-300%} 40%{left:-400%} 46.92%{left:-400%} 50%{left:-500%} 56.92%{left:-500%} 60%{left:-600%} 66.92%{left:-600%} 70%{left:-700%} 76.92%{left:-700%} 80%{left:-800%} 86.92%{left:-800%} 90%{left:-900%} 96.92%{left:-900%} }
+@-webkit-keyframes wsBasic{0%{left:-0%} 6.92%{left:-0%} 10%{left:-100%} 16.92%{left:-100%} 20%{left:-200%} 26.92%{left:-200%} 30%{left:-300%} 36.92%{left:-300%} 40%{left:-400%} 46.92%{left:-400%} 50%{left:-500%} 56.92%{left:-500%} 60%{left:-600%} 66.92%{left:-600%} 70%{left:-700%} 76.92%{left:-700%} 80%{left:-800%} 86.92%{left:-800%} 90%{left:-900%} 96.92%{left:-900%} }
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container .ws_shadow{
+width:140%;
+height:45%;
+position: absolute;
+left:-21.7%;
+bottom:-30%;
+z-index:-1;
+}
+*|html .component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container .ws_shadow{
+background-size:100%;
+filter:"";
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container .ws_bullets a img{
+text-indent:0;
+display:block;
+top:16px;
+left:-120px;
+visibility:hidden;
+position:absolute;
+-moz-box-shadow: 0 0 5px #000000;
+box-shadow: 0 0 5px #000000;
+border: 5px solid #a4a4a4;
+max-width:none;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container .ws_bullets a:hover img{
+visibility:visible;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container .ws_bulframe div div{
+overflow:visible;
+position:relative;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container .ws_bullets .ws_bulframe{
+display:none;
+top:20px;
+overflow:visible;
+position:absolute;
+cursor:pointer;
+-moz-box-shadow: 0 0 5px #000000;
+box-shadow: 0 0 5px #000000;
+border:` 5px solid #a4a4a4;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container .ws_bulframe span{
+visibility:hidden;
+display:block;
+position:absolute;
+top:-10px;
+left:80px;
+background:url(../../../../../../../../images.zeald.com/site/sraa/images/basic_theme/ScrollingBanner/triangle.png);
+width:15px;
+height:6px;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container .ws_bulframe img{
+height:auto;
+width:100px;
+vertical-align:top;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container .ws_bulframe div {
+left:0;
+overflow:hidden;
+position:relative;
+width:150px;
+height:100%;
+background-color:#a4a4a4;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container.wowslider_master_container_gallery .fade_images img{
+max-width:100% !important;
+}
+@media screen and (-webkit-min-device-pixel-ratio:0) and ( max-width: 640px ){ ::i-block-chrome,.ws_images ul {
+height:500px;
+}
+}
+.component_ContentDisplay_ScrollingBanner2 {
+margin: 0; margin: 0; padding: 8px 14px;  } .component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container a.ws_next, .component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container a.ws_prev {
+position: absolute;
+display: none;
+top:auto!important;
+bottom: 50px;
+margin-top: -28px;
+z-index: 60;
+height: 52px;
+width: 50px;
+background-image: url(../../../../../../../../images.zeald.com/site/sraa/images/basic_theme/ScrollingBanner/arrows.png);
+cursor: pointer;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container a.ws_prev
+{
+left:auto!important;
+right:140px;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container a.ws_next
+{
+right:70px;
+}
+.component_ContentDisplay_ScrollingBanner2 .ws_bullets {
+top: auto!important;
+left: 0;
+bottom:100px!important;
+padding-right:75px!important;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container .ws_bullets a
+{
+margin-left: 4px;
+width: 22px;
+height: 24px;
+background: url(../../../../../../../../images.zeald.com/site/sraa/images/basic_theme/ScrollingBanner/bullet.png) left top;
+float: left;
+position: relative;
+color: #FFF;
+text-align: center;
+padding-top: 4px;
+cursor: pointer;
+}
+.component_ContentDisplay_ScrollingBanner2 div.ws_bullets > div
+{
+text-align:right!important;
+float:none!important;
+}
+.component_ContentDisplay_ScrollingBanner2 div.ws_bullets > div a
+{
+float:none!important;
+display:inline-block;
+} #c790.component_ContentDisplay_ScrollingBanner2 {
+ } .component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container a.ws_next, .component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container a.ws_prev {
+position: absolute;
+display: none;
+top:auto!important;
+bottom: 50px;
+margin-top: -28px;
+z-index: 60;
+height: 52px;
+width: 50px;
+background-image: url(../../../../../../../../images.zeald.com/site/sraa/images/basic_theme/ScrollingBanner/arrows.png);
+cursor: pointer;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container a.ws_prev
+{
+left:auto!important;
+right:140px;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container a.ws_next
+{
+right:70px;
+}
+.component_ContentDisplay_ScrollingBanner2 .ws_bullets {
+top: auto!important;
+left: 0;
+bottom:100px!important;
+padding-right:75px!important;
+}
+.component_ContentDisplay_ScrollingBanner2 > .wowslider_master_container .ws_bullets a
+{
+margin-left: 4px;
+width: 22px;
+height: 24px;
+background: url(../../../../../../../../images.zeald.com/site/sraa/images/basic_theme/ScrollingBanner/bullet.png) left top;
+float: left;
+position: relative;
+color: #FFF;
+text-align: center;
+padding-top: 4px;
+cursor: pointer;
+}
+.component_ContentDisplay_ScrollingBanner2 div.ws_bullets > div
+{
+text-align:right!important;
+float:none!important;
+}
+.component_ContentDisplay_ScrollingBanner2 div.ws_bullets > div a
+{
+float:none!important;
+display:inline-block;
+} 

@@ -1,0 +1,29 @@
+.plain_content {
+height: 100%;
+}
+.component_ContentDisplay_Content {
+margin: 0; margin: 0; padding: 8px 14px;  } #c1113.component_ContentDisplay_Content {
+ } #c1118.component_ContentDisplay_Content {
+ } #c1119.component_ContentDisplay_Content {
+ } #c1120.component_ContentDisplay_Content {
+ } #c1121.component_ContentDisplay_Content {
+ } #c1122.component_ContentDisplay_Content {
+ } td.ltc {
+padding: 0;
+background: none;
+text-align: left;
+vertical-align: top;
+border: none;
+}
+.component_Layout_Table {
+margin: 0; margin: 0; padding: 8px 14px;  } #c1117.component_Layout_Table {
+ } @media screen and ( max-width: 800px ) {
+div#c1117 table tr td {
+display: inline-block;
+}
+}
+@media screen and ( max-width: 447px ) {
+div#c1117 table tr td {
+width: 100% !important;
+}
+} 
